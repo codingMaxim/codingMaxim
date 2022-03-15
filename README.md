@@ -6,5 +6,3 @@
   - JavaScript
   - VueJS
 - 📫 How to reach me: tjupalow.maxim@gmail.com
--gettin high
-
